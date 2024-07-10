@@ -3,9 +3,9 @@
   pading:0;
   box-sizing:border-box;
 }
-.parent{
-  height:600px;
-  width:800px;
+main{
+  height:1000px;
+  width:1000px;
   border:1px solid black;
   display:flex;
   flex-wrap:wrap;
